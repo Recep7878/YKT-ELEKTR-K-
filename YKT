@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>YKT ELEKTRİK</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>YKT ELEKTRİK</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Ana Sayfa</a></li>
+                <li><a href="#about">Hakkımızda</a></li>
+                <li><a href="#contact">İletişim</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section id="home">
+        <h2>Hoşgeldiniz</h2>
+        <img src="path-to-your-new-image.jpg" alt="YKT ELEKTRİK Görseli">
+    </section>
+    <section id="about">
+        <h2>Hakkımızda</h2>
+        <p>YKT ELEKTRİK olarak... (içerik burada olacak)</p>
+    </section>
+    <section id="contact">
+        <h2>İletişim</h2>
+        <p>Telefon: 05548616181</p>
+    </section>
+    <footer>
+        <p>&copy; 2024 YKT ELEKTRİK</p>
+    </footer>
+</body>
+</html>
